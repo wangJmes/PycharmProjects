@@ -1,8 +1,0 @@
-# 练习
-# 开发者:汪川
-# 开发时间: 2021/8/28 18:08
-file = open('c.txt', 'rt', encoding='utf-8')
-file.seek(3)
-print(file.read())
-print(file.tell())
-file.close()
