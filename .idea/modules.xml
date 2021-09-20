@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pythonProject/test/数据分析/情感分析/.idea/情感分析.iml" filepath="$PROJECT_DIR$/pythonProject/test/数据分析/情感分析/.idea/情感分析.iml" />
     </modules>
   </component>
 </project>
