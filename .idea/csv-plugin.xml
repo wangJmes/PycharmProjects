@@ -3,7 +3,35 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\pythonProject\test\数据分析\numpy学习\youtube_video_data\GB_video_data_numbers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\pythonProject\test\数据分析\pandas学习\IMDB-Movie-Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pythonProject\test\数据分析\pandas学习\data\booksTop1000\books.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pythonProject\test\数据分析\pandas学习\data\booksTop1000\tags.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\pythonProject\test\数据分析\pandas学习\data\booksTop1000\to_read.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
