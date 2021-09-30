@@ -52,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\pythonProject\数据分析\pandas学习\pandas案例\datas\pm2.5\BeijingPM20100101_20151231.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
